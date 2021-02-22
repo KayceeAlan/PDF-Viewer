@@ -1,4 +1,4 @@
-const url = "../docs/Kelechi Alan.pdf"
+const url = "https://kayceealan.github.io/PDF-Viewer/docs/Kelechi%20Alan.pdf"
 
 let pdfDoc = null,
 pageNum = 1,
